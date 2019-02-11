@@ -1,0 +1,2 @@
+# TugasMagang
+Landing Page
